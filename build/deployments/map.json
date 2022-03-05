@@ -1,0 +1,23 @@
+{
+  "137": {
+    "SimpleCollectible": [
+      "0x1675deAFAf1Be7337Afaf16287c17cb54071a9a9"
+    ]
+  },
+  "4": {
+    "SimpleCollectible": [
+      "0x1109B445eECa3427405AafCe56c44013f2cEa6a6",
+      "0x6A77ACb7Bb10DF0a81ef4DC9E7Ebca4fB23E542D",
+      "0x714889c34A62755bDC5d71E6c20E5244eFC57f9d",
+      "0x593D5732e202b57f7d6193f4182c98ceb554dD1a",
+      "0x94DD1a0DD93B5F193A47facE61B0F88DEc463465"
+    ]
+  },
+  "80001": {
+    "SimpleCollectible": [
+      "0x8112f5a25018c714B198c2098Dd184d0E2FEeb25",
+      "0x4D84eB087b1749f46255c0F7a2B2721158c0Be09",
+      "0x1675deAFAf1Be7337Afaf16287c17cb54071a9a9"
+    ]
+  }
+}
